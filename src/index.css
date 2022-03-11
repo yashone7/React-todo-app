@@ -1,0 +1,10 @@
+.app {
+  height: 100vh;
+  background-color: #429bf0;
+}
+
+.form {
+  background-color: #fff;
+  width: 100%;
+  border: 1px solid red;
+}
